@@ -1,4 +1,4 @@
-days 30 commit 
+days 31 commit 
 
 Day 1 Commit my-first-project
 Daily GitHub activity
